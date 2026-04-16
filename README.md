@@ -38,7 +38,7 @@ A fully functional Salary & Expense Tracker built using **Vanilla JavaScript**, 
 
 
 ### Chart Visualization
-<img width="740" height="880" alt="image" src="https://github.com/user-attachments/assets/99e7f7f0-c6e5-4749-9d7c-b4aaf5efa1f4" />
+<img width="1810" height="795" alt="image" src="https://github.com/user-attachments/assets/63f408f0-ad4b-425f-b0c7-ecada6b236dc" />
 
 
 ---

@@ -68,7 +68,7 @@ A fully functional Salary & Expense Tracker built using **Vanilla JavaScript**, 
 
 ## 🌐 Live Demo
 
-🔗 https://your-username.github.io/repo-name/
+https://sriniketh-vangipuram.github.io/MISSION--2-PRODESK-IT-SOLUTIONS-/
 
 ---
 

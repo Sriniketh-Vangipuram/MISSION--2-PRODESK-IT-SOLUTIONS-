@@ -34,10 +34,12 @@ A fully functional Salary & Expense Tracker built using **Vanilla JavaScript**, 
 ## 📸 Screenshots
 
 ### Dashboard View
-![App Screenshot](./screenshot1.png)
+<img width="1832" height="913" alt="image" src="https://github.com/user-attachments/assets/deacfee4-41e7-4d6c-9dab-65c0959c8976" />
+
 
 ### Chart Visualization
-![Chart Screenshot](./screenshot2.png)
+<img width="740" height="880" alt="image" src="https://github.com/user-attachments/assets/99e7f7f0-c6e5-4749-9d7c-b4aaf5efa1f4" />
+
 
 ---
 
@@ -48,3 +50,39 @@ A fully functional Salary & Expense Tracker built using **Vanilla JavaScript**, 
 ---
 
 ## 📂 Project Structure
+      │── index.html
+      │── styles.css
+      │── script.js
+      │── README.md
+      │── Prompts.md
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository  
+2. Open `index.html` in browser  
+3. Start adding salary & expenses  
+
+---
+
+## 🌐 Live Demo
+
+🔗 https://your-username.github.io/repo-name/
+
+---
+
+## 📌 Key Learnings
+
+- Handling state without frameworks
+- DOM manipulation & event handling
+- Data persistence using LocalStorage
+- Real-time UI updates
+- Data visualization using Chart.js
+
+---
+
+## 🧑‍💻 Author
+
+**Name:** Sriniketh  
+**Role:** Full Stack Intern @ Prodesk IT

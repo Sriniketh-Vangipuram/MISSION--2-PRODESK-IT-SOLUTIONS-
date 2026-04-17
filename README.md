@@ -45,7 +45,7 @@ A fully functional Salary & Expense Tracker built using **Vanilla JavaScript**, 
 
 ## 🎥 Demo Video
 
-🔗 [Watch Demo Video](YOUR_YOUTUBE_UNLISTED_LINK)
+🔗https://youtu.be/VAH5pB1Qsg4
 
 ---
 
